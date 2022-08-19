@@ -1,6 +1,5 @@
 import Header from "./components/Header"
 import FeedbackList from "./components/FeedbackList"
-import feedbackData from "./data/feedbackData"
 import FeedbackStats from "./components/FeedbackStats"
 import FeedbackForm from "./components/FeedbackForm"
 import AboutPage from "./components/pages/AboutPage"
